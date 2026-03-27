@@ -56,7 +56,7 @@ Le système facilite :
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/votre-projet.git
+git clone https://github.com/Gestion-solidarit-financier.git
 cd votre-projet
 ```
 
