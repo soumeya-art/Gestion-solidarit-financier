@@ -1,6 +1,6 @@
-# 📌 Projet : Système de Gestion de Solidarité Financière
+#  Projet : Système de Gestion de Solidarité Financière
 
-## 🧾 Description
+##  Description
 
 Ce projet est une application web développée avec le framework **Laravel** permettant de gérer une **solidarité financière** entre les membres d’une organisation.
 
@@ -14,7 +14,7 @@ Le système facilite :
 
 ---
 
-## 🎯 Objectifs
+##  Objectifs
 
 * Simplifier la gestion des contributions financières
 * Assurer la transparence des transactions
@@ -23,7 +23,7 @@ Le système facilite :
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 * **Backend** : PHP (Laravel)
 * **Frontend** : Blade, Tailwind CSS
@@ -36,7 +36,7 @@ Le système facilite :
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 * `app/` : Contient la logique métier (modèles, contrôleurs)
 * `bootstrap/` : Initialisation de l’application
@@ -51,7 +51,7 @@ Le système facilite :
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Cloner le projet
 
@@ -114,22 +114,21 @@ Puis ouvrir :
 * Diagramme de classes
 * Diagramme de séquence
 * Diagramme d’activité
-* MCD / MCT (Méthode Merise)
 
 ---
 
-## 👨‍💻 Auteur
+##  Auteur
 
 * Nom Des membres :
   -Moutaha Issa Aden
   -Rahma Guirreh
-  -Rahma Mahamoud
-  -Oumalkhaire Hamoud 
+  -Rahma hamoud
+  -Oumalkhaire Hamid 
 * Projet académique
 
 ---
 
-## 📌 Remarque
+##  Remarque
 
 Ce projet a été réalisé dans un cadre académique pour démontrer la conception et le développement d’un système de gestion complet.
 
