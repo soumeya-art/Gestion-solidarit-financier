@@ -44,10 +44,16 @@ Encadré par : Dr. Moubarak
 - Consulter les statistiques
 
 ## Structure du projet
-- /frontend
-- /backend
-- /database
-- /assets
+
+app/ : Contient la logique métier (modèles, contrôleurs)
+bootstrap/ : Initialisation de l’application
+config/ : Fichiers de configuration
+database/ : Migrations et seeders
+public/ : Fichiers accessibles (index.php)
+resources/ : Vues (Blade), CSS, JS
+routes/ : Définition des routes
+storage/ : Fichiers temporaires
+tests/ : Tests unitaires
 
 ## Installation
 1. Installer WAMP Server
